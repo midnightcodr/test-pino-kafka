@@ -1,0 +1,17 @@
+{
+  "name": "test-pino-kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quicktest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rdkafka": "^3.0.1",
+    "pino": "^9.0.0",
+    "pino-abstract-transport": "^1.2.0"
+  }
+}
